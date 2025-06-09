@@ -50,3 +50,21 @@ Foi feita uma tela de cadastro com um botão de notificações. Segue os blocos 
 
 ![Captura de tela 2025-06-03 110124](https://github.com/user-attachments/assets/9f8a38b8-9121-4e6b-989b-ff1dbe3722d9)
 
+<br>
+
+
+### Atividade 5 - App de pinguins (ATIVIDADE RELÂMPAGO)
+
+https://github.com/user-attachments/assets/b6e8c0db-16d9-4535-8ab2-6068ecaee032
+
+Foi feito um site mobile funcional como atividade extra. O site produzido é simples, a partir do pinguim que o usuário clicar, levará para uma nova tela, com uma tirinha ou foto, e quando o pinguim for clicado novamente, voltará para a página inicial. Foram feitas um total de 3 páginas: A página inicial, a página do pinguim vermelho e a página do pinguim idoso. Segue os blocos que foram utilizados para fazer as páginas funcionarem:
+
+![Captura de tela 2025-06-09 144525](https://github.com/user-attachments/assets/a1a623c6-ed93-4185-8a19-1dfbcc9495ee)
+![Captura de tela 2025-06-09 144539](https://github.com/user-attachments/assets/ca3970d6-b900-44ab-9c14-a3ca4345ae8a)
+![Captura de tela 2025-06-09 144552](https://github.com/user-attachments/assets/1b054e44-1f6a-4a4f-82c7-97a198fc086b)
+
+Nas imagens acima, temos os blocos da página 1, da página 2 e da página 3. Nos blocos, quando o botão for clicado, direcionará para uma das páginas.
+
+
+
+

@@ -101,10 +101,10 @@ Foi solicitado que fizessemos uma página que cadastrasse os usuários, e que su
 
 
 ### Atividade 8 - Consulta  de CEP
-![Captura de tela 2025-06-10 161811](https://github.com/user-attachments/assets/ca52cc19-3372-4667-83c1-fd262ed3db27)
+![Captura de tela 2025-06-10 161823](https://github.com/user-attachments/assets/36ef1846-387a-4348-9fda-7383606f1633)
 
 Foi pedido a produção de um app que pudesse dizer o estado e a cidade após o envio de um CEP na barra de texto. Foi utilizado um API para puxar as informações solicitadas (estado e cidade), que deveriam aparecer na tela. Segue os blocos utilizados para o funcionamento da página:
 
 
 
-![Captura de tela 2025-06-10 161823](https://github.com/user-attachments/assets/36ef1846-387a-4348-9fda-7383606f1633)
+![Captura de tela 2025-06-10 161811](https://github.com/user-attachments/assets/ca52cc19-3372-4667-83c1-fd262ed3db27)

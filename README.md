@@ -1,6 +1,6 @@
 # ProjetosMobile
 
-Foram produzidas atividades de criação de aplicativos mobiles, com nocode. Foram feitas um total de 4 atividades: Uma calculdora, um conversor, um aplicativo com mais de uma tela e um aplicativo com tela de notificações.
+Foram produzidas atividades de criação de aplicativos mobiles, com nocode. Foram feitas um total de 4 atividades: Uma calculdora, um conversor, um aplicativo com mais de uma tela e um aplicativo com tela de notificações. Todas as atividades foram feitas no Kodular.
 
 
 ### Atividade 1 - Calculadora
@@ -53,6 +53,9 @@ Foi feita uma tela de cadastro com um botão de notificações. Segue os blocos 
 <br>
 
 
+## 03/06/2025
+
+
 ### Atividade 5 - App de pinguins (ATIVIDADE RELÂMPAGO)
 
 https://github.com/user-attachments/assets/b6e8c0db-16d9-4535-8ab2-6068ecaee032
@@ -67,4 +70,41 @@ Nas imagens acima, temos os blocos da página 1, da página 2 e da página 3. No
 
 
 
+<br>
 
+## 10/06/2025
+
+### Atividade 6 - Sorteio de números
+
+
+![Captura de tela 2025-06-10 161607](https://github.com/user-attachments/assets/a467f626-2dc3-4238-846d-3d0ed8353798)
+
+Foi pedido para que fosse feita um app que sorteasse números de 0 a 10, e o usuário deveria adivinhar qual número o sistema sorteou. Segue os blocos utilizados para o funcionamento do app.
+
+![Captura de tela 2025-06-10 161622](https://github.com/user-attachments/assets/4d9ab1c6-e8a8-4d77-b9c5-20c1717f2cb9)
+
+
+
+
+### Atividade 7 - Cadastro de Usuários
+![Captura de tela 2025-06-10 143145](https://github.com/user-attachments/assets/593d0fd7-17d2-4229-a8a7-2e378386e1e1)
+
+Foi solicitado que fizessemos uma página que cadastrasse os usuários, e que suas informações pudessem ser editadas, apagadas e salvas. Por fim, deveria haver a listagem com a informação dos cadastrados. Segue os blocos utilizados para o funcionamento da aplicação mobile:
+
+
+![Captura de tela 2025-06-10 143222](https://github.com/user-attachments/assets/6e5d0858-b947-49f0-b537-ca93f92a781f)
+![Captura de tela 2025-06-10 143239](https://github.com/user-attachments/assets/b49666ae-a1e0-4a0e-a897-24d54db76003)
+![Captura de tela 2025-06-10 143256](https://github.com/user-attachments/assets/f38a62d8-1679-457d-b000-0c7086e1f3ea)
+![Captura de tela 2025-06-10 161607](https://github.com/user-attachments/assets/90d547a1-4b9f-4953-a361-6df0a555b87a)
+
+
+
+
+### Atividade 8 - Consulta  de CEP
+![Captura de tela 2025-06-10 161811](https://github.com/user-attachments/assets/ca52cc19-3372-4667-83c1-fd262ed3db27)
+
+Foi pedido a produção de um app que pudesse dizer o estado e a cidade após o envio de um CEP na barra de texto. Foi utilizado um API para puxar as informações solicitadas (estado e cidade), que deveriam aparecer na tela. Segue os blocos utilizados para o funcionamento da página:
+
+
+
+![Captura de tela 2025-06-10 161823](https://github.com/user-attachments/assets/36ef1846-387a-4348-9fda-7383606f1633)

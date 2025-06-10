@@ -76,13 +76,12 @@ Nas imagens acima, temos os blocos da página 1, da página 2 e da página 3. No
 
 ### Atividade 6 - Sorteio de números
 
+![Captura de tela 2025-06-10 161622](https://github.com/user-attachments/assets/4d9ab1c6-e8a8-4d77-b9c5-20c1717f2cb9)
 
-![Captura de tela 2025-06-10 161607](https://github.com/user-attachments/assets/a467f626-2dc3-4238-846d-3d0ed8353798)
 
 Foi pedido para que fosse feita um app que sorteasse números de 0 a 10, e o usuário deveria adivinhar qual número o sistema sorteou. Segue os blocos utilizados para o funcionamento do app.
 
-![Captura de tela 2025-06-10 161622](https://github.com/user-attachments/assets/4d9ab1c6-e8a8-4d77-b9c5-20c1717f2cb9)
-
+![Captura de tela 2025-06-10 161607](https://github.com/user-attachments/assets/691277bb-30a8-4eef-a805-3f9983514ea0)
 
 
 

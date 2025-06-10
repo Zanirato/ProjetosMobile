@@ -94,7 +94,6 @@ Foi solicitado que fizessemos uma página que cadastrasse os usuários, e que su
 ![Captura de tela 2025-06-10 143222](https://github.com/user-attachments/assets/6e5d0858-b947-49f0-b537-ca93f92a781f)
 ![Captura de tela 2025-06-10 143239](https://github.com/user-attachments/assets/b49666ae-a1e0-4a0e-a897-24d54db76003)
 ![Captura de tela 2025-06-10 143256](https://github.com/user-attachments/assets/f38a62d8-1679-457d-b000-0c7086e1f3ea)
-![Captura de tela 2025-06-10 161607](https://github.com/user-attachments/assets/90d547a1-4b9f-4953-a361-6df0a555b87a)
 
 
 

@@ -1,6 +1,6 @@
 # ProjetosMobile
 
-Foram produzidas atividades de criação de aplicativos mobiles, com nocode. Foram feitas um total de 4 atividades: Uma calculdora, um conversor, um aplicativo com mais de uma tela e um aplicativo com tela de notificações. Todas as atividades foram feitas no Kodular.
+Foram produzidas atividades de criação de aplicativos mobiles, com nocode - ou seja, sem códigos - Foram feitas um total de 4 atividades: Uma calculdora, um conversor, um aplicativo com mais de uma tela e um aplicativo com tela de notificações. Todas as atividades foram feitas no Kodular.
 
 ## 02/06/2025
 

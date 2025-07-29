@@ -1,5 +1,8 @@
 # ProjetosMobile
 
+
+<div align="center">
+
 Foram produzidas atividades de criação de aplicativos mobiles, com nocode - ou seja, sem códigos - Foram feitas um total de 4 atividades: Uma calculdora, um conversor, um aplicativo com mais de uma tela e um aplicativo com tela de notificações. Todas as atividades foram feitas no Kodular.
 
 ## 02/06/2025
@@ -107,3 +110,6 @@ Foi pedido a produção de um app que pudesse dizer o estado e a cidade após o 
 
 
 ![Captura de tela 2025-06-10 161811](https://github.com/user-attachments/assets/ca52cc19-3372-4667-83c1-fd262ed3db27)
+
+
+</div>
